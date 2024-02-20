@@ -13,9 +13,13 @@ I'm a passionate web developer with expertise in building websites for small and
 - 🚀 HubSpot
 - 💻 HTML, CSS, JavaScript
 
-## Get in Touch
 
-- ✉️ Email: kakrechadivyesh1@gmail.com
-- 🔗 LinkedIn: [Divyesh Kakrecha](https://www.linkedin.com/in/divyesh-kakrecha-9700a0128/)
-- 📝 Upwork: [Divyesh Kakrecha](https://www.upwork.com/freelancers/~0140e8c72a243e4e62)
-- 🌐 Personal Website: [wpcoder.in](https://wpcoder.in/)
+## 📫 Contact Information
+
+You can reach out to me through any of the following channels:
+
+[![Email](https://img.shields.io/badge/Email-kakrechadivyesh1%40gmail.com-green?style=for-the-badge&logo=gmail)](mailto:kakrechadivyesh1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyesh%20Kakrecha-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyesh-kakrecha-9700a0128/)
+[![Upwork](https://img.shields.io/badge/Upwork-Divyesh%20Kakrecha-orange?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~0140e8c72a243e4e62)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-wpcoder.in-red?style=for-the-badge&logo=wordpress)](https://wpcoder.in/)
+
