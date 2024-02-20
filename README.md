@@ -1,12 +1,21 @@
-### Hi there, I'm Divyesh Kakrecha 👋
+# Hi there, I'm Divyesh Kakrecha! 👋
 
-<br />
+## About Me
 
-**1. Profile Introduction**
+I'm a passionate web developer with expertise in building websites for small and medium-sized businesses. With 8 years of experience in WordPress development and a knack for crafting custom solutions, I strive to create elegant and effective solutions for every project.
 
-Description: I'm a web developer in building the websites for small and medium sized busineses.
+## Skills & Technologies
 
-**Key Points:**<br />
-💻 WordPress developer with 8 years of experience.<br />
-🔧 Skilled in plugin/theme customization, WooCommerce, and Webflow.<br />
-🌟 Passionate about creating elegant solutions for complex problems.
+- 💻 WordPress Development
+- 🔧 Plugin/Theme Customization
+- 🛒 WooCommerce
+- 🌐 Webflow
+- 🚀 HubSpot
+- 💻 HTML, CSS, JavaScript
+
+## Get in Touch
+
+- ✉️ Email: kakrechadivyesh1@gmail.com
+- 🔗 LinkedIn: [Divyesh Kakrecha](https://www.linkedin.com/in/divyesh-kakrecha-9700a0128/)
+- 📝 Upwork: [Divyesh Kakrecha](https://www.upwork.com/freelancers/~0140e8c72a243e4e62)
+- 🌐 Personal Website: [wpcoder.in](https://wpcoder.in/)
